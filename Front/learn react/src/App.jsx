@@ -1,12 +1,17 @@
+import { useEffect } from "react";
 import { useState } from "react";
 
 const CardSabor = ({ title }) => {
-  const [isAvailable, setIsAvailable] = useState(false);
+  const [isAvailable, setIsAvailable] = useState(true);
+  const [count, setCount] = useState(0);
 
+  useEffect(() =>{
+    console.log(`${title} show that available ${isAvailable}`);
+  }, [isAvailable])
 
   return (
-    <div className="card">
-      <h2>{title}</h2>
+    <div className="card" onClick={()=> setCount(count + 1)}>
+      <h2>{title}  - {count} </h2>
       <button onClick={() => setIsAvailable(!isAvailable)} > 
         {isAvailable ? "disponivel" : "sabor indisponivel"}
       </button>
@@ -15,7 +20,6 @@ const CardSabor = ({ title }) => {
 };
 
 const App = () => {
-
 
   return (
     <>
