@@ -1,0 +1,97 @@
+O que estudar para Fullstack:
+
+
+FRONTEND
+
+
+(base)
+HTML, CSS, JAVASCRIPT
+
+Protocolos
+
+WTTP, DNS, INTERNT, SERVIDOR, CLINTE
+
+
+Versionamento codigo
+
+Git, GitHub, BitBuckent ou Gitlab
+
+
+UX UI
+
+Figma (Noções, criação de pj)
+
+
+Design Patterns
+
+Singleton, Strategy, Observer, Decorator
+
+
+Frameworks (um ou mais)
+
+Angular, Next.js (React), View
+
+
+Consumo API
+
+RESTful, SOAP, Web Socket, GraphicL
+
+Testes
+
+Cypress, Jest, Karma, Jasmine
+
+
+Devops
+
+CI/CD (PIPELINE PARA DEPLOY OU REPOSITÒRIOS)
+
+Nuvem
+
+AWS, AZURE
+
+
+
+BACKEND
+
+JAVA, C#, PYTHON
+
+FrameWork 
+
+Spring, ASP.NET Core, 
+
+
+Banco De dados Relacional e Não Relacional
+
+MongoDB (Não Relacional)
+
+Mysql, Sql, Postegress
+
+
+Construção de API
+
+RESTful, SOAP, Web Socket, GraphicL
+
+
+Segurança
+
+Autenticação, Autorização, Injecção SQL
+
+
+Containers 
+
+Docker, Kubernets
+
+
+Testes
+
+Unitários, e2e, Integração
+
+
+Arquiteturas e Metodos
+
+microserviço, DOMAIN DRIVER DISIGN
+
+
+Mensageria 
+
+Kafka, lambda
