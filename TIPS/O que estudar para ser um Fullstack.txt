@@ -5,36 +5,45 @@ FRONTEND
 
 
 (base)
-HTML, CSS, JAVASCRIPT
+HTML, CSS, JAVASCRIPT *
 
 Protocolos
 
-WTTP, DNS, INTERNT, SERVIDOR, CLINTE
+WTTP, DNS, INTERNT, SERVIDOR, CLINTE *
+
 
 
 Versionamento codigo
 
-Git, GitHub, BitBuckent ou Gitlab
+Git, GitHub, BitBuckent ou Gitlab *
+
 
 
 UX UI
 
-Figma (Noções, criação de pj)
+Figma (Noções, criação de pj) *
+
+
+
+Frameworks (um ou mais)
+
+Angular, Next.js (React), View {
+ jsx ,props, state, lifeCicle, componentização, hooks, eventos, List and keys
+
+}
+
+
+Consumo API
+
+RESTful, SOAP, Web Socket, GraphicL
+
 
 
 Design Patterns
 
 Singleton, Strategy, Observer, Decorator
 
-
-Frameworks (um ou mais)
-
-Angular, Next.js (React), View
-
-
-Consumo API
-
-RESTful, SOAP, Web Socket, GraphicL
+Clen code
 
 Testes
 
