@@ -28,7 +28,7 @@ Figma (Noções, criação de pj) *
 Frameworks (um ou mais)
 
 Angular, Next.js (React), View {
- jsx ,props, state, lifeCicle, componentização, hooks, eventos, List and keys
+ jsx ,props, state, lifeCicle, componentização, hooks, eventos, routes, List and Keys, high order compoenets , state management, handless componet
 
 }
 
