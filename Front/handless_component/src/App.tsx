@@ -1,4 +1,5 @@
 import Button from './Button/Button'
+import AlertDialogDemo from './Dialog/Dilog'
 import './styles/global.css'
 
 export function App() {
@@ -8,6 +9,8 @@ export function App() {
       <Button asChild>
         <a href="#">Ir para website</a>
       </Button>
+
+      <AlertDialogDemo/>
     </>
   )
 }
